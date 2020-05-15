@@ -2,7 +2,7 @@
 #   Programming Assignment 6
 #       Prob-2.py
 
-# <YOUR NAME>
+# Edward
 
 from graphics import *
 
